@@ -1,0 +1,464 @@
+[
+    {
+        "path": "/dashboard",
+        "name": "dashboard",
+        "meta": {
+            "name": "计算",
+            "showNav": false
+        },
+        "children": [
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云服务器",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "负载均衡",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "弹性伸缩",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "批量计算",
+                    "showNav": false
+                }
+            }
+        ]
+    },
+    {
+        "path": "/dashboard",
+        "name": "dashboard",
+        "meta": {
+            "name": "CND及网络",
+            "showNav": false
+        },
+        "children": [
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "CND",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "专有网络",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "全球加速",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "负载均衡",
+                    "showNav": false
+                }
+            }
+        ]
+    },
+    {
+        "path": "/dashboard",
+        "name": "dashboard",
+        "meta": {
+            "name": "域名与网站",
+            "showNav": false
+        },
+        "children": [
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "DNS 解析",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "网站备案",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "SSL 证书",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "证书监控",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "移动解析",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "域名管理",
+                    "showNav": false
+                }
+            }
+        ]
+    },
+    {
+        "path": "/dashboard",
+        "name": "dashboard",
+        "meta": {
+            "name": "数据安全",
+            "showNav": false
+        },
+        "children": [
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "堡垒机",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "数据安全审计",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "敏感数据处理",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "数据安全治理中心",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云加密机",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "凭据管理系统",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "密钥管理系统（合规）",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "数据保险箱",
+                    "showNav": false
+                }
+            }
+        ]
+    },
+    {
+        "path": "/dashboard",
+        "name": "dashboard",
+        "meta": {
+            "name": "存储",
+            "showNav": false
+        },
+        "children": [
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "对象存储",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "文件存储",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "归档存储",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "存储网关",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云数据迁移",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "日志服务",
+                    "showNav": false
+                }
+            }
+        ]
+    },
+    {
+        "path": "/dashboard",
+        "name": "dashboard",
+        "meta": {
+            "name": "数据库",
+            "showNav": false
+        },
+        "children": [
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云数据库 MySQL",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云数据库 CynosDB",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云数据库 MariaDB",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云数据库 SQL Server",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云数据库 PostgreSQL",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "分布式数据库 TDSQL",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云数据库 Redis",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云数据库 MongoDB",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云数据库 Memcached",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "时序数据库 CTSDB",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "游戏数据库 TcaplusDB",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "数据库智能管家 DBbrain",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "数据传输服务",
+                    "showNav": false
+                }
+            }
+        ]
+    },
+    {
+        "path": "/dashboard",
+        "name": "dashboard",
+        "meta": {
+            "name": "网络安全",
+            "showNav": false
+        },
+        "children": [
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "DDoS 防护",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "云防火墙",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "CC防护",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "安全服务",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "网络资产风险监测系统",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "Web 应用防火墙",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "漏洞扫描服务",
+                    "showNav": false
+                }
+            },
+            {
+                "path": "/dashboard",
+                "name": "dashboard",
+                "meta": {
+                    "name": "移动应用安全",
+                    "showNav": false
+                }
+            }
+        ]
+    }
+]

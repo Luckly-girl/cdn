@@ -1,0 +1,162 @@
+.data-center {
+  .left {
+    padding: 26px 29px;
+    margin-right: 22px;
+    background-color: #fff;
+
+    .btn-wrap {
+      display: flex;
+    }
+
+    ul.btn {
+      display: flex;
+      margin-right: 30px;
+      li {
+        width: 75px;
+        height: 30px;
+        font-size: 14px;
+        color: #020202;
+        text-align: center;
+        line-height: 30px;
+        border: 1px solid #ddd;
+        margin-left: -1px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+
+        &:first-child {
+          border-radius: 10px 0 0 10px;
+        }
+
+        &:last-child {
+          border-radius: 0 10px 10px 0;
+        }
+      }
+    }
+
+    .selectBtn {
+      width: 75px;
+      height: 30px;
+      font-size: 14px;
+      color: #020202;
+      text-align: center;
+      line-height: 30px;
+      border: 1px solid #ddd;
+      margin-left: -1px;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+    .screen {
+      width: 1050px;
+      height: 200px;
+      border: 1px solid #eaeaea;
+      margin: 30px 0 0 140px;
+      background-color: #fff;
+      box-shadow: 0 5px 10px 0 #eaeaea;
+      .group {
+        margin-top: 15px;
+        .timedata {
+          width: 60px;
+          margin: 10px 0 0 20px;
+          font-size: 14px;
+        }
+        .el-select {
+          width: 150px;
+        }
+        .realName {
+          width: 60px;
+          margin: 10px 0 0 15px;
+          font-size: 14px;
+        }
+        .checkbox {
+          height: 140px;
+          border: 1px solid #eeeeee;
+          overflow-y: auto;
+          .el-checkbox {
+            margin: 5px;
+          }
+        }
+        .selectName {
+          margin: 10px 0 0 15px;
+          span:nth-child(1) {
+            width: 50px;
+            margin-right: 50px;
+            font-size: 14px;
+          }
+          span:nth-child(2) {
+            font-size: 14px;
+            color: #13af9e;
+            cursor: pointer;
+          }
+          ul {
+            height: 130px;
+            width: 180px;
+            border: 1px solid #eeeeee;
+            overflow-y: auto;
+            margin-top: 5px;
+            li{
+              margin: 5px;
+            }
+          }
+        }
+        .httpType{
+          width: 35px;
+          margin: 10px 0 0 28px;
+          font-size: 14px;
+        }
+        .confirmBtn{
+          width: 55px;
+          height: 25px;
+          margin:10px 0 0 40px;
+          font-size: 14px;
+          color: #fff;
+          text-align: center;
+          line-height: 25px;
+          background-color: #8BC5FC;
+          cursor: pointer;
+        }
+      }
+    }
+
+    .active {
+      color: #fff !important;
+      background-color: #00a896;
+    }
+    .activeVal {
+      color: #00a896 !important;
+      border-color: #00a896 !important;
+    }
+
+    .echarts-wrap {
+      padding: 0 10%;
+      margin-top: 26px;
+
+      ul {
+        li {
+          display: flex;
+          align-items: center;
+          border-bottom: 1px solid #eceef1;
+
+          &:last-child {
+            border-bottom: none;
+          }
+
+          .name {
+            flex: 210px 0 0;
+            font-size: 14px;
+            color: #020202;
+            line-height: 50px;
+          }
+
+          .echarts {
+            flex: 1;
+          }
+        }
+      }
+    }
+  }
+}

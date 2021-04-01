@@ -1,0 +1,112 @@
+[
+  {
+    "path": "/expenseCenter",
+    "name": "费用中心",
+    "list": [
+      {
+        "name": "主页",
+        "icon": "icon-shouye",
+        "path": "/expenseCenter",
+        "children": []
+      },
+      {
+        "name": "订单管理",
+        "icon": "icon-dingdanguanli",
+        "children": [
+          {
+            "path": "/expenseCenter/orderOverview",
+            "name": "订单总览"
+          }
+        ]
+      },
+      {
+        "name": "收支明细",
+        "icon": "icon-shouzhimingxi-copy",
+        "path": "/expenseCenter/incomeAndExpenses",
+        "children": []
+      },
+      {
+        "name": "费用管理",
+        "icon": "icon-feiyongguanli",
+        "children": [
+          {
+            "path": "/expenseCenter/expenseList",
+            "name": "费用账单"
+          },
+          {
+            "path": "/expenseCenter/DetailsOfDosage",
+            "name": "用量明细"
+          },
+          {
+            "path": "/expenseCenter/exportRecord",
+            "name": "导出记录"
+          }
+        ]
+      },
+      {
+        "name": "发票与合同",
+        "icon": "icon-fapiao",
+        "children": [
+          {
+            "path": "/expenseCenter/invoice",
+            "name": "发票管理"
+          },
+          {
+            "path": "/expenseCenter/agreement",
+            "name": "合同管理"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "/cdn",
+    "name": "cdn",
+    "list": [
+      {
+        "name": "概览",
+        "path": "/cdn/basicFacts",
+        "icon": "icon-shouye",
+        "children": []
+      },
+      {
+        "name": "域名管理",
+        "path": "/cdn/domain",
+        "icon": "icon-yumingguanli",
+        "children": []
+      },
+      {
+        "name": "证书管理",
+        "path": "/cdn/credentials",
+        "icon": "icon-zhengshuguanli",
+        "children": []
+      },
+      {
+        "name": "数据中心",
+        "path": "/cdn/dataCenter",
+        "icon": "icon-shujuzhongxin",
+        "children": []
+      },
+      {
+        "name": "日志服务",
+        "path": "/cdn/record",
+        "icon": "icon-rizhifuwu",
+        "children": []
+      },
+      {
+        "name": "WAF",
+        "icon": "icon-yunWAF",
+        "children": [
+          {
+            "path": "/cdn/openFirewall",
+            "name": "购买服务"
+          },
+          {
+            "path": "/cdn/openWaf",
+            "name": "WAF"
+          }
+        ]
+      }
+    ]
+  }
+]

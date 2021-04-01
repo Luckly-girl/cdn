@@ -1,0 +1,169 @@
+[
+  {
+    "path": "/dashboard",
+    "name": "dashboard",
+    "meta": {
+      "name": "控制台",
+      "showNav": false
+    },
+    "children": [
+      {
+        "path": "/dashboard/latestNotice",
+        "name": "latestNotice",
+        "meta": {
+          "name": "最新公告",
+          "showNav": false
+        }
+      },
+      {
+        "path": "/dashboard/latestProduct",
+        "name": "latestProduct",
+        "meta": {
+          "name": "最新产品",
+          "showNav": false
+        }
+      }
+    ]
+  },
+  {
+    "path": "/expenseCenter",
+    "name": "expenseCenter",
+    "meta": {
+      "name": "费用中心",
+      "showNav": true
+    },
+    "children": [
+      {
+        "path": "/expenseCenter/expenseList",
+        "name": "expenseList",
+        "meta": {
+          "name": "费用账单",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/DetailsOfDosage",
+        "name": "DetailsOfDosage",
+        "meta": {
+          "name": "用量明细",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/exportRecord",
+        "name": "exportRecord",
+        "meta": {
+          "name": "导出记录",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/incomeAndExpenses",
+        "name": "incomeAndExpenses",
+        "meta": {
+          "name": "收支明细",
+          "showNav": true
+        }
+      },
+      
+      {
+        "path": "/expenseCenter/orderOverview",
+        "name": "orderOverview",
+        "meta": {
+          "name": "订单总览",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/orderDetail",
+        "name": "orderDetail",
+        "meta": {
+          "name": "订单详情",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/invoice",
+        "name": "invoice",
+        "meta": {
+          "name": "发票管理",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/invoiceApplication",
+        "name": "invoiceApplication",
+        "meta": {
+          "name": "申请开票",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/invoiceInfo",
+        "name": "invoiceInfo",
+        "meta": {
+          "name": "开票详情",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/agreement",
+        "name": "agreement",
+        "meta": {
+          "name": "合同管理",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/agreementApplication",
+        "name": "agreementApplication",
+        "meta": {
+          "name": "申请合同",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/agreementComplate",
+        "name": "agreementComplate",
+        "meta": {
+          "name": "申请合同",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/recharge",
+        "name": "recharge",
+        "meta": {
+          "name": "充值",
+          "showNav": true
+        }
+      },
+      {
+        "path": "/expenseCenter/withdrawCash",
+        "name": "withdrawCash",
+        "meta": {
+          "name": "提现",
+          "showNav": true
+        }
+      }
+    ]
+  },
+  {
+    "path": "/cdn",
+    "name": "cdn",
+    "meta": {
+      "name": "cdn",
+      "showNav": false
+    },
+    "children": [
+      {
+        "path": "buy",
+        "name": "buy",
+        "meta": {
+          "name": "购买",
+          "showNav": false
+        }
+      }
+    ]
+  }
+]
